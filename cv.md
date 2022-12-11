@@ -11,7 +11,7 @@
 Contact
 -------
 
-* **Phone:** +38099zero415160
+* **Discord:** sunflower247#8898
 * **E-mail:**  sunflower247@gmail.com
 * **GitHub:** [sunflower247](https://github.com/sunflower247)
 
@@ -54,7 +54,7 @@ Education and courses
 Languages
 ---------
 
-English – pre-intermediate
+English â€“ pre-intermediate
 
   
 <img src="https://rs.school/images/rs_school_js.svg" style="" width="75" alt="RSS logo">
