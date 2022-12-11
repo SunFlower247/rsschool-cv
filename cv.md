@@ -40,7 +40,7 @@ Code example
     
 Experience
 ----------
-
+ Coming soon ...
 
 Education and courses
 ---------------------
